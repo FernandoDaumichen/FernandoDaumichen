@@ -1,18 +1,19 @@
 <h1>Hi Stranger <img src= "https://media.tenor.com/z2xJqhCpneIAAAAC/wave-hand.gif" width="40"/>😁</h1>
+<p>Welcome to my page! I'm Fernando, a Fullstack developer from São Paulo <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="20"/>, currently living in Vancouver <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" width="20" ></p>
 <div>
-  <p>Welcome to my page!
-I'm Fernando , Fullstack developer from  São Paulo ,<img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="20"/>, currently living in Vancouver,<img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" width="20" ></p> 
-  <p>Feel free to do whatever you want 🙃<p>
-  </div>
-<hr>
-  <h3> Follow Me </h3>
-<p>  ⬇️⬇️Here you can find all my social networks and contact me at any time </p>
-<h3><a href="https://beacons.ai/fernandodaumichen">HERE</a></h3>
+  <h2>About Me 🙃</h2>
+  <p>Feel free to do whatever you want on my page.</p>
 </div>
 <hr>
 <div>
-<h3>Languages and  Tool that I Use</h3>
-<p>
+  <h2>Follow Me 🚀</h2>
+  <p>Find all my social networks and contact me anytime:</p>
+  <h3><a href="https://beacons.ai/fernandodaumichen">HERE</a></h3>
+</div>
+<hr>
+<div>
+  <h2>Languages and Tools I Use 🔧</h2>
+  <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -38,14 +39,13 @@ I'm Fernando , Fullstack developer from  São Paulo ,<img src="https://cdn-icons
 <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=whit">
-</p>
+    </p>
 </div>
 <hr>
 <div>
-<h3>My Stats 🔥<h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=FernandoDaumichen&show_icons=true&theme=default">
-</p> 
+  <h2>My Stats 🔥</h2>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=FernandoDaumichen&show_icons=true&theme=default">
+  </p>
 </div>
-  
 <hr>
