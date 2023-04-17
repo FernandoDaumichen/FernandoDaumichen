@@ -1,12 +1,13 @@
+
 <h1>Hi Stranger <img src= "https://media.tenor.com/z2xJqhCpneIAAAAC/wave-hand.gif" width="40"/>😁</h1>
-<p>Welcome to my page! I'm Fernando, a Fullstack developer from São Paulo <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="20"/>, currently living in Vancouver <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" width="20" ></p>
 <div>
-  <h2>About Me 🙃</h2>
-  <p>Feel free to do whatever you want on my page.</p>
-</div>
+  <p>Welcome to my page!
+I'm Fernando , Fullstack developer from  São Paulo ,<img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="20"/>, currently living in Vancouver,<img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" width="20" ></p> 
+  <p>Feel free to do whatever you want 🙃<p>
+  </div>
 <hr>
 <div>
-  <h2>Follow Me 🚀</h2>
+  <h3>Follow Me 🚀</h3>
   <p>Find all my social networks and contact me anytime:</p>
   <h3><a href="https://beacons.ai/fernandodaumichen">HERE</a></h3>
 </div>
