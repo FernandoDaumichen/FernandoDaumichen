@@ -44,9 +44,9 @@ I'm Fernando , Fullstack developer from  São Paulo ,<img src="https://cdn-icons
 </div>
 <hr>
 <div>
-  <h2>My Stats 🔥</h2>
+<!--   <h2>My Stats 🔥</h2>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=FernandoDaumichen&show_icons=true&theme=default">
   </p>
-</div>
+</div> -->
 <hr>
