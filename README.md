@@ -43,10 +43,10 @@ I'm Fernando , Fullstack developer from  São Paulo ,<img src="https://cdn-icons
     </p>
 </div>
 <hr>
-<div>
-<!--   <h2>My Stats 🔥</h2>
+<!-- <div>
+  <h2>My Stats 🔥</h2>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=FernandoDaumichen&show_icons=true&theme=default">
   </p>
-</div> -->
-<hr>
+</div>
+<hr> -->
