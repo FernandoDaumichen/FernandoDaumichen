@@ -42,7 +42,6 @@ I'm Fernando , Fullstack developer from  São Paulo ,<img src="https://cdn-icons
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=whit">
 
-    </p>
 </div>
 <hr>
 <!-- <div>
