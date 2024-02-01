@@ -44,10 +44,11 @@ I'm Fernando , Fullstack developer from  São Paulo ,<img src="https://cdn-icons
     <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white">
 </div>
 <hr>
-<!-- <div>
-  <h2>My Stats 🔥</h2>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=FernandoDaumichen&show_icons=true&theme=default">
-  </p>
+<div>
+   ![Snake animation](https://github.com/eagrundy/FernandoDaumichen/blob/output/github-contribution-grid-snake.svg)
 </div>
-<hr> -->
+<hr>
+<div>
+ 
+
+
