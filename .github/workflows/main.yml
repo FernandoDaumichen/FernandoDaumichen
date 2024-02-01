@@ -17,7 +17,7 @@ jobs:
     
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         
       - name: Generate snake game from GitHub contribution grid
         uses: Platane/snk@v3.2.0
@@ -28,7 +28,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
       - name: Push generated SVG to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output  # Specifies the branch to which the files will be pushed
           build_dir: dist  # The directory where the generated SVG files are located
