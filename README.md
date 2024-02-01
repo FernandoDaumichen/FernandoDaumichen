@@ -45,7 +45,8 @@ I'm Fernando , Fullstack developer from  São Paulo ,<img src="https://cdn-icons
 </div>
 <hr>
 <div>
-![Snake animation](https://github.com/FernandoDaumichen/FernandoDaumichen/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/FernandoDaumichen/FernandoDaumichen/output/github-contribution-grid-snake.svg)
+
 </div>
 <hr>
 
