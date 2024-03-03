@@ -35,7 +35,7 @@ I'm Fernando , Fullstack developer from  São Paulo ,<img src="https://cdn-icons
   </p>
   <h3>System & Others</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=git,github,apple,vscode,bun,discord,obsidian" alt="Others"/>
+    <img src="https://skillicons.dev/icons?i=git,github,apple,vscode,bun,discord,obsidian,notion" alt="Others"/>
   </p>
 </div>
 <hr>
