@@ -19,7 +19,7 @@ I'm Fernando , Fullstack developer from  São Paulo ,<img src="https://cdn-icons
   </p>
   <h3>Backend</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,php,cs,express,ts" alt="Backend"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,php,cs,express,ts,prisma,neon" alt="Backend"/>
   </p>
   <h3>Database</h3>
   <p>
