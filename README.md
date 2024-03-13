@@ -15,7 +15,7 @@ I'm Fernando , Fullstack developer from  São Paulo ,<img src="https://cdn-icons
  <h2>Languages and Tools I Use 🔧</h2>
   <h3>Frontend</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,bootstrap" alt="Frontend"/>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,bootstrap,mui" alt="Frontend"/>
   </p>
   <h3>Backend</h3>
   <p>
