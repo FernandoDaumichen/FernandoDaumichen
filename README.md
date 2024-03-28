@@ -34,8 +34,8 @@
       </a>
     </div>
     <div style="flex: 1; flex-basis: 50%;">
-      <img src="Contacts.png">
-      <img src="https://tenor.com/view/sleep-lazy-tired-funny-terrorcore-gif-8925620.gif" width="800" height="70%"/>
+      <img src="Contacts.png" style="border-radius: 10px;">
+      <img src="https://tenor.com/view/sleep-lazy-tired-funny-terrorcore-gif-8925620.gif" width="800" height="70%" style="border-radius: 10px;">
     </div>
   </div>
 </div>
