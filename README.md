@@ -27,17 +27,16 @@
 <hr>
 <div>
   <h3>What I'm Listening To 🎧</h3>
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=fernando.daumichen&cover_image=true&theme=default&show_offline=false&background_color=32728c&interchange=false&bar_color=53b14f&bar_color_cover=true"/>
-  </a>
+  <div style="display: flex;">
+    <div style="flex: 1; flex-basis: 50%;">
+      <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=fernando.daumichen&cover_image=true&theme=default&show_offline=false&background_color=32728c&interchange=false&bar_color=53b14f&bar_color_cover=true" style="border-radius: 0;"/>
+      </a>
+    </div>
+    <div style="flex: 1; flex-basis: 50%;">
+      <img src="Contacts.png">
+      <img src="https://tenor.com/view/sleep-lazy-tired-funny-terrorcore-gif-8925620.gif" width="800" height="70%"/>
+    </div>
+  </div>
 </div>
 <hr>
-<div>
-  <h3>Contacts</h3>
-  <p>Let's get in touch! You can reach me at:</p>
-  <p>Email: fernando.daumichen@gmail.com</p>
-  <p>LinkedIn: <a href="https://www.linkedin.com/in/fernandodaumichen/">Fernando Daumichen</a></p>
-</div>
-<div>
-  <img src="https://tenor.com/view/sleep-lazy-tired-funny-terrorcore-gif-8925620.gif" width="500"/>
-</div>
