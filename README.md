@@ -39,3 +39,8 @@ I'm Fernando , Fullstack developer from  São Paulo ,<img src="https://cdn-icons
   </p>
 </div>
 <hr>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fernando.daumichen&cover_image=true&theme=default&show_offline=false&background_color=32728c&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+
+<img src="https://tenor.com/view/sleep-lazy-tired-funny-terrorcore-gif-8925620.gif" width="500"/> 
