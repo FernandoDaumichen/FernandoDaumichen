@@ -1,6 +1,6 @@
 <h1>Hi Stranger <img src="https://tenor.com/view/hi-gif-23520343.gif" width="45"/> 😁</h1>
 <div>
-  <p>Welcome to my page! I'm Fernando, a Fullstack Developer from São Paulo, <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="20"/>, currently living in Vancouver, <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" width="20"/>. Feel free to do whatever you want 🙃</p>
+  <h3>Welcome to my page! I'm Fernando, a Fullstack Developer from São Paulo, <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="20"/>, currently living in Vancouver, <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" width="20"/>. Feel free to do whatever you want 🙃</h3>
 </div>
 
 <hr>
