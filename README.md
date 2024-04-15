@@ -7,7 +7,7 @@
 <div>
  <h2>Languages and Tools I Use 🔧</h2>
   <h3>Frontend</h3>
-  <p><img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,bootstrap,mui" alt="Frontend"/></p>
+  <p><img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vite,bootstrap,mui" alt="Frontend"/></p>
   <h3>Backend</h3>
   <p><img src="https://skillicons.dev/icons?i=nodejs,php,cs,express,ts" alt="Backend"/></p>
   <h3>Database</h3>
