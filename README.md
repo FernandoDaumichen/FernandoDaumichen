@@ -7,11 +7,11 @@
 <div>
  <h2>Languages and Tools I Use 🔧</h2>
   <h3>Frontend</h3>
-  <p><img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vite,bootstrap,mui" alt="Frontend"/></p>
+  <p><img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vite,bootstrap,mui,reactnative" alt="Frontend"/></p>
   <h3>Backend</h3>
   <p><img src="https://skillicons.dev/icons?i=nodejs,php,cs,express,ts" alt="Backend"/></p>
   <h3>Database</h3>
-  <p><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,prisma" alt="Database"/></p>
+  <p><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,prisma,supabase" alt="Database"/></p>
   <h3>Design & Prototyping</h3>
   <p><img src="https://skillicons.dev/icons?i=figma" alt="Design & Prototyping"/></p>
   <h3>DevOps & Cloud</h3>
