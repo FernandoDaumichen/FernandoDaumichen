@@ -26,7 +26,7 @@
       <td style="width: 50%;">
         <h3 align="center">What I'm Listening To 🎧</h3>
         <a href="https://github.com/kittinan/spotify-github-profile">
-          <img src="https://spotify-github-profile.vercel.app/api/view?uid=fernando.daumichen&cover_image=true&theme=default&show_offline=false&background_color=32728c&interchange=false&bar_color=53b14f&bar_color_cover=true" style="border-radius: 0; width: 270vh;"/>
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fernando.daumichen&cover_image=true&theme=default&show_offline=false&background_color=32728c&interchange=false&bar_color=53b14f&bar_color_cover=true" style="border-radius: 0; width: 240vh;"/>
         </a>
       </td>
       <td style="width: 50%;">
